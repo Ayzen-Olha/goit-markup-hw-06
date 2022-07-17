@@ -1,0 +1,7 @@
+<svg aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="icon-check-1" viewBox="0 0 42 32">
+      <path fill="#fff" style="fill:var(--color1, #fff);stroke:var(--color1, #fff)" stroke="#fff" stroke-width=".64" d="m6.27 15.2-.22-.2-.23.2-2.84 2.69-.26.22.26.26L14.4 29.25l.2-.23L38.84 5.9l-.23-.23-2.81-2.68-.23-.23-.22.23L14.4 22.94 6.27 15.2z"/>
+    </symbol>
+  </defs>
+</svg>
