@@ -227,6 +227,7 @@ img {
     background-size: cover;
     background-repeat: no-repeat;
 
+    margin: 0 auto;
     letter-spacing: 0.06em;
     padding-top: 200px;
     padding-bottom: 200px;
@@ -647,6 +648,7 @@ img {
 
 .connection-title,
 .signup-title {
+    display: block;
     color: var(--white-color);
     margin-bottom: 20px;
 }
@@ -884,10 +886,6 @@ img {
     color: var(--accent-text-color);
 }
 
-/* .agreement-block label {
-    line-height: 1.7em;
-} */
-
 /* icon form */
 
 .form-field-icon {
@@ -946,6 +944,7 @@ img {
     justify-content: center;
     align-items: center;
     margin-bottom: 30px;
+    line-height: 1.7em;
 }
 
 .agreement:checked + .checbox-icon {
